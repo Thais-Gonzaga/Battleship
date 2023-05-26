@@ -39,9 +39,9 @@ Ao iniciar esse exercício, você concorda com as diretrizes do Código de Condu
 
   1. Clone o repositório
 
-  - Use o comando: `git clone git@github.com:tryber/sd-0x-exercise-battleship.git`.
+  - Use o comando: `git clone git@github.com:tryber/sd-025-b-exercise-battleship.git`.
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd sd-0x-exercise-battleship`
+    - `cd sd-025-b-exercise-battleship`
 
   2. Crie o ambiente virtual para o exercício
 
@@ -80,7 +80,7 @@ Ao iniciar esse exercício, você concorda com as diretrizes do Código de Condu
 
   7. Crie um novo `Pull Request` _(PR)_
 
-  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-exercise-battleship/pulls)
+  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-025-b-exercise-battleship/pulls)
   - Clique no botão verde _"New pull request"_
   - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
   - Coloque um título para a sua _Pull Request_
@@ -88,7 +88,7 @@ Ao iniciar esse exercício, você concorda com as diretrizes do Código de Condu
   - Clique no botão verde _"Create pull request"_
   - Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_
   - **Não se preocupe em preencher mais nada por enquanto!**
-  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-exercise-battleship/pulls) e confira que o seu _Pull Request_ está criado
+  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-025-b-exercise-battleship/pulls) e confira que o seu _Pull Request_ está criado
 
 </details>
 
@@ -206,7 +206,7 @@ Ao iniciar esse exercício, você concorda com as diretrizes do Código de Condu
 
     - No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
 
-    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-025-b`.
 
   Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
@@ -236,7 +236,7 @@ Ao iniciar esse exercício, você concorda com as diretrizes do Código de Condu
   <summary><strong>🗣️ Nos dê feedbacks sobre o exercício!</strong></summary><br />
 
   Ao finalizar e submeter o exercício, não se esqueça de avaliar sua experiência preenchendo o formulário. Leva menos de 3 minutos!
-  [FORMULÁRIO DE AVALIAÇÃO](https://be-trybe.typeform.com/to/ZTeR4IbH)
+  [FORMULÁRIO DE AVALIAÇÃO](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH25-B&template=betrybe/sd-0x-exercise-battleship)
 
 </details>
 
