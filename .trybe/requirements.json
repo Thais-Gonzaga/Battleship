@@ -1,0 +1,12 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Suponha que se está escrevendo uma função chamada battleship para um jogo de batalha naval.",
+      "enabled": true,
+      "identifier": "test_battleship",
+      "order": 1,
+      "skill_ids": []
+    }
+  ]
+}
